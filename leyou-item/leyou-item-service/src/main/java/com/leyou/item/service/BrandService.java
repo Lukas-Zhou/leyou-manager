@@ -26,6 +26,13 @@ public class BrandService {
     @Autowired
     private BrandService brandService;
 
+    
+    
+    
+    
+    
+    
+    
     /**
      * 根据查询条件分页并排序查询品牌信息
      *
